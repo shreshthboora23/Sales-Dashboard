@@ -62,7 +62,6 @@ This project presents an interactive Ecommerce Sales Dashboard built using Power
 
 7. Screenshot
    show what the dash looks like :- ![Alt text](https://github.com/shreshthboora23/Sales-Dashboard/blob/main/sales%20d.png)
-   Example :- ![Dashboard Preview](https://github.com/shreshthboora23/Sales-Dashboard/blob/main/sales%20d.png)
 
 This dashboard helps in understanding sales performance, customer trends, and regional insights, making it useful for business decision-making.
 
